@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>My Portfolio</title>
+</head>
+<body id="body">
+    <header id="header">
+    <nav id="nav">
+        <div id="divnav">
+<div id="logo"><img id="imgone" src="newlogo.jpg" alt="Complanylogo"></div>
+    
+        <div id="links">
+        <a class="one" href="index.html">Home</a>
+        <a class="one" href="Projects.html">Projects</a>
+        <a class="one" href="Contact.html">Contact us</a>
+        <a class="one" href="Skills.html">Skills and Education</a>
+    </div>
+    </nav>
+    </div>
+    </header> <br><br><br><br>
+    <div id="divmain">
+    <div id="divone">
+        <h2>Hi, My name is Hamza Waseem</h2>
+        <h1>Computer 
+            <span style="color: greenyellow;">Scientist</span>
+        </h1>
+        <p id="mainpara">I am a first-semester Computer Science student, passionate about learning programming and building strong foundations in technology. I am currently focused on developing my problem-solving skills, understanding core computing concepts, and exploring web development. This portfolio represents my learning journey and will continue to grow as I progress through my academic and professional path.</p>
+    </div>
+
+    <div id="divtwo">
+        <img id="imgtwo" src="hamza.img.jpeg" alt="Hamza Waseem">
+    </div>
+    </div>
+    <br><br><br>
+    <div id="divmaintwo">
+        <div id="subone">
+            <table id="tableone">
+                <tr>
+                    <td class="top">
+                    Education
+                    </td>
+                </tr>
+                <tr class="bottom">
+                    <td>
+                   Bachelor of Computer Science
+                    </td>
+                </tr>
+        
+            </table>
+        </div>
+        <div id="subtwo">
+            <table id="tabletwo">
+                <tr>
+                    <td class="top">
+                    Skills
+                    </td>
+                </tr>
+                <tr class="bottom">
+                    <td>
+                   Skilled in Java,HTML/CSS
+                    </td>
+                </tr>
+        
+            </table>
+        </div>
+        <div id="subthree">
+            <table id="tablethree">
+                <tr>
+                    <td class="top">
+                    Projects
+                    </td>
+                </tr>
+                <tr class="bottom">
+                    <td>
+                   Build a personal Portfolio
+                    </td>
+                </tr>
+        
+            </table>
+        </div>
+
+    </div>
+    <br><br>
+</body>
+</html>
