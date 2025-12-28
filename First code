@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
-    <title>My Portfolio</title>
+    <title>Home</title>
 </head>
 <body id="body">
     <header id="header">
@@ -16,22 +16,27 @@
         <a class="one" href="index.html">Home</a>
         <a class="one" href="Projects.html">Projects</a>
         <a class="one" href="Contact.html">Contact us</a>
-        <a class="one" href="Skills.html">Skills and Education</a>
+        <a class="one" href="Skills.html">Skills</a>
     </div>
     </nav>
     </div>
     </header> <br><br><br><br>
     <div id="divmain">
     <div id="divone">
-        <h2>Hi, My name is Hamza Waseem</h2>
-        <h1>Computer 
-            <span style="color: greenyellow;">Scientist</span>
-        </h1>
-        <p id="mainpara">I am a first-semester Computer Science student, passionate about learning programming and building strong foundations in technology. I am currently focused on developing my problem-solving skills, understanding core computing concepts, and exploring web development. This portfolio represents my learning journey and will continue to grow as I progress through my academic and professional path.</p>
+        <h1>Hi, My name is <br><span style="color: green;font-size: 50px;">Hamza Waseem</span></h1>
+      <p><b>Aspiring software developer</b> focused on clean code and problem solving.</p>
+      <h2>Computer Science <span style="color: yellowgreen;">Student</span></h2>
+      <p id="mainpara">
+        I am a first-semester Computer Science student passionate about learning programming and building strong foundations in technology. I focus on problem-solving, computing concepts, and web development. I am dedicated to expanding my skills and seizing every opportunity to enhance my academic and professional path as I progress through my studies. As an aspiring software developer, I remain focused on writing clean code and finding creative solutions to complex problems.
+      </p>
+         <div style="display: flex;justify-content: center;align-items: center;">
+        <a id="buttonone" href="Contact.html">Hire me</a>
+        <a id="buttontwo" href="projects.html">Projects</a></button>
+    </div>
     </div>
 
     <div id="divtwo">
-        <img id="imgtwo" src="hamza.img.jpeg" alt="Hamza Waseem">
+        <img id="imgtwo" src="no bg image.jpeg" alt="Hamza Waseem">
     </div>
     </div>
     <br><br><br>
@@ -84,5 +89,5 @@
 
     </div>
     <br><br>
+   
 </body>
-</html>
